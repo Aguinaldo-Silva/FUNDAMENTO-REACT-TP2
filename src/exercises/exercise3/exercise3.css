@@ -1,0 +1,14 @@
+.imagemexercise3{
+  width: 20%;
+  height: auto;
+}
+
+.div1{
+  display: flex; 
+  justify-Content: space-between;
+}
+
+.div2{
+  display: flex;
+  margin-top: 100px;
+}
